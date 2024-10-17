@@ -1,7 +1,9 @@
 # Welcome to Hypha :mushroom:
 
-**hypha** (_noun_)
-: one of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
+> **hypha** | hy·​pha
+>
+>(*noun*)
+> :one of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
 
 ## About Hypha
 
