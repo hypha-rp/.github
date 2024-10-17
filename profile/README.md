@@ -1,7 +1,6 @@
 # Welcome to Hypha :wave:
 
 **hypha** (_noun_)
-
 : one of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
 
 ## About Hypha
